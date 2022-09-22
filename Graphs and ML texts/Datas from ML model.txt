@@ -1,0 +1,25 @@
+Best-fit values:
+
+Slope			-0.06893 ± 0.004782
+Y-intercept		30.71 ± 0.2139
+X-intercept		445.6
+1/Slope			-14.51
+
+95% Confidence Intervals:
+
+Slope			-0.08122 to -0.05663
+Y-intercept		30.16 to 31.26
+X-intercept		384.1 to 533.7
+
+Goodness of Fit:
+
+R square		0.9765
+Sy.x			0.2530
+
+Equation:		Y = -0.06893*X + 30.71
+
+
+
+
+
+
